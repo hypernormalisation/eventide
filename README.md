@@ -4,7 +4,9 @@
 # eventide
 A Minecraft v1.16.4 modpack built upon the Fabric mod loader
 
-A multiMC client container can be found in the repository releases page.
+A multiMC client container can be found in the repository releases page:
+
+https://github.com/hypernormalisation/eventide/releases
 
 # Mod list
 - Appleskin
