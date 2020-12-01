@@ -8,18 +8,18 @@ A multiMC client container can be found in the repository releases page.
 
 # Mod list
 - Appleskin
-- Better End
-- Better Nether
-- Biomes You'll Go
+- Better End - https://www.curseforge.com/minecraft/mc-mods/betterend
+- Better Nether - https://www.curseforge.com/minecraft/mc-mods/betternether
+- Biomes You'll Go (BYG) - https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go
 - Hwyla
 - Mod Menu
 - OptiFine, using OptiFabric
 - Patchouli
 - Roughly Enough Items
-- SimplePipeTest
+- SimplePipeTest - https://www.curseforge.com/minecraft/mc-mods/simplepipes
 - SimplePlanes - https://www.curseforge.com/minecraft/mc-mods/simple-planes-fabric
-- Tech Reborn
-- Waystones
+- Tech Reborn - https://www.curseforge.com/minecraft/mc-mods/techreborn
+- Waystones - https://www.curseforge.com/minecraft/mc-mods/fabric-waystones
 - Xaero's Minimap
 - Xaero's World Map
 
