@@ -34,13 +34,13 @@ As such, we use the lowest resolution available Sphax VanillaDBCraft 32x texture
 A benefit of running lower resolution textures is the possibility to use higher-quality shaders than might have been possible with 128x assets at the same frame-rate.
 
 We package a variety of shader packs:
-- BSL
-- Chocapic 13
-- projectLUMA
-- SEUS-Renewed
-- Sildurs Vibrant Shaders High/Extreme with Volumetric Lighting
+- BSL - https://bitslablab.com/bslshaders/
+- Chocapic 13 - https://www.curseforge.com/minecraft/customization/chocapic13-shaders
+- projectLUMA - https://dedelner.net/projectluma/
+- SEUS-Renewed - https://www.sonicether.com/seus/
+- Sildurs Vibrant Shaders High/Extreme with Volumetric Lighting - https://sildurs-shaders.github.io/
 
-While BSL and projectLUMA have reasonable performances and a pleasing appearance, they can result in brightnesss flickering of foliage and other detailed textures.
+While BSL and projectLUMA both have a reasonable performance and a pleasing appearance, they can display brightnesss flickering in foliage and other detailed textures.
 
 Chocapic 13's liberal use of fog effects makes it the uncontested best pack to use in the Nether and End.
 
