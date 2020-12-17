@@ -1,18 +1,19 @@
 
 ![](https://i.imgur.com/W4qLxfX.jpg)
 
-README UNDER CONSTRUCTION FOR 1.0!
-
 # eventide
 A Minecraft v1.16.4 modpack built upon the Fabric mod loader.
 Built with an emphasis on exploration, performance, and an expansive world of tech for endgame progression.
 
 
-## Installation
+# Installation
 
 A multiMC client container can be found in the repository releases page:
 
 https://github.com/hypernormalisation/eventide/releases
+
+Be aware that the client takes around 1.5 minutes to initialise all mods when starting the client before
+you'll get to the menu. It might appear to hang, but if you check teh instance log you'll see it's churning away!
 
 # Mod list
 We break down the included mods by rough category below.
@@ -93,31 +94,63 @@ Mod totally revamping the Nether dimension, adding some lush and cold biomes to 
 
 https://www.curseforge.com/minecraft/mc-mods/betternether
 
+### Cinderscapes
+"Cinderscapes complements Terrestria by providing an expansion to the nether, much like Terrestria does to the overworld. Cinderscapes brings more life and beauty to the nether, while also keeping it frightening."
+
+https://www.curseforge.com/minecraft/mc-mods/cinderscapes
+
+### Mo' Structures
+Adds a large number of natural and created structures to the world.
+
+https://www.curseforge.com/minecraft/mc-mods/mo-structures
+
 ### Oh The Biomes You'll Go (BYG)
 Adds a huge number of natural-feeling biomes to the overworld and to the Nether.
 
 https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go
 
+### Terrestria
+"Terrestria is a detailed and vibrant biomes mod for Minecraft running on the Fabric mod loader. Terrestria enhances gameplay through the addition of 17 major biomes supported by 24 component biomes, 9 new wood types, as well as a healthy selection of foliage - providing a refreshing new selection of terrain."
 
+https://www.curseforge.com/minecraft/mc-mods/terrestria
 
-- Applied Energistics 2 - https://ae-mod.info/
-- OptiFine, using OptiFabric
-- Patchouli
-- Roughly Enough Items
-- Tech Reborn - https://www.curseforge.com/minecraft/mc-mods/techreborn
-- Waystones - https://www.curseforge.com/minecraft/mc-mods/fabric-waystones
+### Traverse
+"Traverse aims to expand upon, but not replace or overshadow, Minecraft biomes. Traverse embraces the simplistic nature of many vanilla biomes and the goal is to have the biomes fit in just right so that Mojang could add them into the base game and nobody would complain that they felt out of place."
+
+https://www.curseforge.com/minecraft/mc-mods/traverse
+
+### Wild Explorer
+Adds a large number of biomes and structures to the world.
+
+https://www.curseforge.com/minecraft/mc-mods/wild-explorer
+
+## Gameplay Mods
+The following mods add new systems and assets to the game.
+
+### Applied Energistics II
+"Applied Energistics 2 is a mod created by AlgorithmX2 designed to compactly store items in a digital network called Matter Energy"
+
+https://ae-mod.info/
+
+### Tech Reborn
+"Tech Reborn is a completely standalone tech mod including tools and machines to gather resources, process materials, and progress through the mod."
+
+https://www.curseforge.com/minecraft/mc-mods/techreborn
+
+### Waystones
+Adds waystones you can teleport to and from in the game. They even spawn in villages!
+
+https://www.curseforge.com/minecraft/mc-mods/fabric-waystones
 
 # Included Resource Packs
-
 No resource packs are currently available for BYG, Better End, Better Nether, or Waystones.
 
-As such, we use the lowest resolution available Sphax VanillaDBCraft 32x textures for 
+As such, we use the lowest resolution (32x) available Sphax PureDBCraft textures for 
 Minecraft, Traverse, Applied Energistics 2, and for 
 Tech Reborn, such that they blend in well with the packaged 16x asset textures for the above listed 
 mods, without a particularly noticeable gap in quality.
 
 # Included Shader Packs
-
 A benefit of running lower resolution textures is the possibility to use higher-quality shaders than might have been possible with 128x assets at the same frame-rate.
 
 We package a variety of shader packs:
@@ -125,7 +158,7 @@ We package a variety of shader packs:
 - Chocapic 13 - https://www.curseforge.com/minecraft/customization/chocapic13-shaders
 - projectLUMA - https://dedelner.net/projectluma/
 - SEUS-Renewed - https://www.sonicether.com/seus/
-- Sildurs Vibrant Shaders High/Extreme with Volumetric Lighting - https://sildurs-shaders.github.io/
+- Sildurs Vibrant Shaders - https://sildurs-shaders.github.io/
 
 While BSL and projectLUMA both have a reasonable performance and a pleasing appearance, they can display brightnesss flickering in foliage and other detailed textures.
 
