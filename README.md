@@ -4,26 +4,60 @@
 README UNDER CONSTRUCTION FOR 1.0!
 
 # eventide
-A Minecraft v1.16.4 modpack built upon the Fabric mod loader
+A Minecraft v1.16.4 modpack built upon the Fabric mod loader.
+Built with an emphasis on exploration, performance, and an expansive world of tech for endgame progression.
+
+
+## Installation
 
 A multiMC client container can be found in the repository releases page:
 
 https://github.com/hypernormalisation/eventide/releases
 
-# Mod list
-- Appleskin
+## Mod list
+
+### Quality of Life
+
+The following mods are added to improve the everyday feel and friendliness of Minecraft.
+
+#### Appleskin
+Mod showing enhanced information on food and stamina restoration.
+
+https://www.curseforge.com/minecraft/mc-mods/appleskin
+
+#### Here's What You're Looking At (HWYLA)
+Mod showing you, well, what you're looking at! With so many mods adding blocks to the game, easily seeing the
+information for the block you're currently targetting is very useful!
+
+https://www.curseforge.com/minecraft/mc-mods/hwyla
+
+#### Mod Menu
+Simple in-game menu showing you what mods are installed and running.
+
+https://www.curseforge.com/minecraft/mc-mods/modmenu
+
+#### Roughly Enough Items (REI)
+Again, with so many mods, recipes can become daunting. REI provides a searchable recipe dictionary in your inventory.
+
+https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items
+
+#### Xaero's Minimap/World Map
+Minmap and world map that automatically records your surroundings. Press "M" in game for your map, "Y" for your minimap
+settings (though the defaults are tweaked and sensible).
+
+https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+
+https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
+
+- Applied Energistics 2 - https://ae-mod.info/
 - Better End - https://www.curseforge.com/minecraft/mc-mods/betterend
 - Better Nether - https://www.curseforge.com/minecraft/mc-mods/betternether
 - Oh The Biomes You'll Go (BYG) - https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go
-- Hwyla
-- Mod Menu
 - OptiFine, using OptiFabric
 - Patchouli
 - Roughly Enough Items
 - Tech Reborn - https://www.curseforge.com/minecraft/mc-mods/techreborn
 - Waystones - https://www.curseforge.com/minecraft/mc-mods/fabric-waystones
-- Xaero's Minimap
-- Xaero's World Map
 
 # Included Resource Packs
 
