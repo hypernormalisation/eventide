@@ -15,6 +15,7 @@ https://github.com/hypernormalisation/eventide/releases
 Be aware that the client takes around 1.5 minutes to initialise all mods when starting the client before
 you'll get to the menu. It might appear to hang, but if you check teh instance log you'll see it's churning away!
 
+---
 # Mod list
 We break down the included mods by rough category below.
 
@@ -142,6 +143,7 @@ Adds waystones you can teleport to and from in the game. They even spawn in vill
 
 https://www.curseforge.com/minecraft/mc-mods/fabric-waystones
 
+---
 # Included Resource Packs
 No resource packs are currently available for BYG, Better End, Better Nether, or Waystones.
 
@@ -150,6 +152,7 @@ Minecraft, Traverse, Applied Energistics 2, and for
 Tech Reborn, such that they blend in well with the packaged 16x asset textures for the above listed 
 mods, without a particularly noticeable gap in quality.
 
+---
 # Included Shader Packs
 A benefit of running lower resolution textures is the possibility to use higher-quality shaders than might have been possible with 128x assets at the same frame-rate.
 
