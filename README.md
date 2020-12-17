@@ -1,6 +1,8 @@
 
 ![](https://i.imgur.com/W4qLxfX.jpg)
 
+README UNDER CONSTRUCTION FOR 1.0!
+
 # eventide
 A Minecraft v1.16.4 modpack built upon the Fabric mod loader
 
@@ -12,14 +14,12 @@ https://github.com/hypernormalisation/eventide/releases
 - Appleskin
 - Better End - https://www.curseforge.com/minecraft/mc-mods/betterend
 - Better Nether - https://www.curseforge.com/minecraft/mc-mods/betternether
-- Biomes You'll Go (BYG) - https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go
+- Oh The Biomes You'll Go (BYG) - https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go
 - Hwyla
 - Mod Menu
 - OptiFine, using OptiFabric
 - Patchouli
 - Roughly Enough Items
-- SimplePipeTest - https://www.curseforge.com/minecraft/mc-mods/simplepipes
-- SimplePlanes - https://www.curseforge.com/minecraft/mc-mods/simple-planes-fabric
 - Tech Reborn - https://www.curseforge.com/minecraft/mc-mods/techreborn
 - Waystones - https://www.curseforge.com/minecraft/mc-mods/fabric-waystones
 - Xaero's Minimap
@@ -27,9 +27,12 @@ https://github.com/hypernormalisation/eventide/releases
 
 # Included Resource Packs
 
-No resource packs are currently available for BYG, Better End, Better Nether, Simpleplanes, or Waystones.
+No resource packs are currently available for BYG, Better End, Better Nether, or Waystones.
 
-As such, we use the lowest resolution available Sphax VanillaDBCraft 32x textures for Minecraft and for Tech Reborn, such that they blend in well with the packaged 16x asset textures for the above listed mods, without a particularly noticeable gap in quality.
+As such, we use the lowest resolution available Sphax VanillaDBCraft 32x textures for 
+Minecraft, Traverse, Applied Energistics 2, and for 
+Tech Reborn, such that they blend in well with the packaged 16x asset textures for the above listed 
+mods, without a particularly noticeable gap in quality.
 
 # Included Shader Packs
 
